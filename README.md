@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @rotich-brian<br>- 👀 I’m interested in Python Django<br>- 🌱 I’m currently learning Backend Development <br>- 💞️ I’m looking to collaborate on <br>- 📫 How to reach me <br>- 😄 Pronouns: He, him<br>- ⚡ Fun fact: 
+- 👋 Hi, I’m @rotich-brian<br>- 👀 I’m interested in Python Django<br>- 🌱 I’m currently focusing on API | Backend Development <br>- 💞️ I’m looking to collaborate on APIs dev <br>- 📫 How to reach me <br>- 😄 Pronouns: He, him<br>- ⚡ Fun fact: 
 
 
 ## 🌐 Socials:
