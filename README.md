@@ -3,7 +3,7 @@
 <br>I'm a passionate developer diving deep into AI, Machine Learning, and Backend Development. I love building robust APIs and crafting scalable solutions that make an impact. Always curious, always learning, and always up for a collaboration!<br><br>    🌱 Currently exploring: Advanced API design and backend optimization<br>    💡 Interested in: AI-driven applications and ML model deployment<br>    🤝 Open to collaborate on: Backend projects, APIs, and open-source initiatives<br>    📫 Reach me at: LinkedIn or X<br>    😄 Pronouns: He/Him<br>    ⚡ Fun fact: I once debugged a 500-line script just to find a missing comma—now I triple-check my code!
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brian_k_rotich) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brian_k_rotich) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brianrotich044@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian_k_rotich) 
 
 # 💻 Tech Stack:
