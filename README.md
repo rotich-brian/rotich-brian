@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Brian K.!
+## 👋 Hi, I'm Brian K.!
 <br>I'm a passionate developer diving deep into AI, Machine Learning, and Backend Development. I love building robust APIs and crafting scalable solutions that make an impact. Always curious, always learning, and always up for a collaboration!<br><br>    🌱 Currently exploring: Advanced API design and backend optimization<br>    💡 Interested in: AI-driven applications and ML model deployment<br>    🤝 Open to collaborate on: Backend projects, APIs, and open-source initiatives<br>    📫 Reach me at: LinkedIn or X<br>    😄 Pronouns: He/Him<br>    ⚡ Fun fact: I once debugged a 500-line script just to find a missing comma—now I triple-check my code!
 
 
